@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "theme-catppuccin-mocha",
+  "description": "A KeeWeb dark theme inspired by the Catppuccin color pallet",
+  "author": {
+    "name": "Henrique Oliveira",
+    "email": "henrique@xonha.space",
+    "url": "https://github.com/xonha"
+  },
+  "resources": {
+    "js": true,
+    "css": true
+  },
+  "license": "MIT",
+  "url": "https://github.com/xonha/KeeWebCatppuccinMocha",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArQ81cwTGWNXKiLwzn7IwNS6W50AwlbrGcELhx7wBNTIqhxyeLx9ui9Yi/AJ8fQZgNuD0nBJ8GC/lFki00bb0Jpvv6Qegy20izB9mHk2eHbEdSJb8+RRGHEZ7yVa8fFovlN3jOAKGifjAZ5rSZAxDz0UBWOTioUphBTithe3eGNz6x+kr5rnqQ6T2gyqyHyY5basq7NKxaHlfOIamtA2O0IBzmjdCsC5AHgqYiQJLKJWaAk9mLFs7P1qbHzWP6h1aVhqoLMYgEIX9qEKeZ6lCfLA77c15P42zpLeUKOoFGa5/pw4AeBswk7DNYYxbkhdcFERyRHCObpji3bAiBdM1qwIDAQAB",
+  "theme": {
+    "name": "catppuccin-mocha",
+    "title": "Catppuccin Mocha"
+  }
+}
+
